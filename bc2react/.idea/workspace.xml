@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f259bc63-58bb-4435-a957-02ccd60595fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2cPqkfrySNJiz68RgMCm2GJhW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-linux-x64/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f259bc63-58bb-4435-a957-02ccd60595fd" name="Default Changelist" comment="" />
+      <created>1582144108362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582144108362</updated>
+      <workItem from="1582144113893" duration="711000" />
+      <workItem from="1582217385528" duration="345000" />
+      <workItem from="1582217750173" duration="1476000" />
+      <workItem from="1582228410667" duration="2169000" />
+      <workItem from="1582230598714" duration="1198000" />
+      <workItem from="1582295121770" duration="4598000" />
+      <workItem from="1582316869985" duration="1190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="71" y="165" width="806" height="668" key="#Plugins" timestamp="1582230702525">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="71" y="165" width="806" height="668" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1582230702525" />
+    <state x="830" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582217951549">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="830" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582217951549" />
+    <state x="1162" y="270" width="530" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582218155745">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1162" y="270" width="530" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582218155745" />
+    <state x="27" y="297" width="899" height="440" key="EditFileWatcherDialog" timestamp="1582229192101">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="27" y="297" width="899" height="440" key="EditFileWatcherDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582229192101" />
+    <state width="1861" height="268" key="GridCell.Tab.0.bottom" timestamp="1582319093332">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1861" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582319093332" />
+    <state width="1861" height="268" key="GridCell.Tab.0.center" timestamp="1582319093331">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1861" height="268" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582319093331" />
+    <state width="1861" height="268" key="GridCell.Tab.0.left" timestamp="1582319093330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1861" height="268" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582319093330" />
+    <state width="1861" height="268" key="GridCell.Tab.0.right" timestamp="1582319093332">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1861" height="268" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582319093332" />
+    <state x="-3" y="174" key="SettingsEditor" timestamp="1582230746603">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-3" y="174" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1582230746603" />
+    <state x="137" y="175" width="668" height="611" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582317320754">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="137" y="175" width="668" height="611" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582317320754" />
+    <state x="148" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1582230722399">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="148" y="272" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582230722399" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+@import "Vars.scss";
+
+#root .container-fluid {
+    min-height: 100vh;
+    background-color: $background;
+    padding: 0px;
+}
+
+.bg-arc-dark {
+    background-color: $background;
+}
+
+.bg-arc-darker {
+    background-color: $dark-background;
+}
+
+.container-fluid a {
+  color: white;
+}
+
+.container-fluid a:hover {
+    color: darkgrey;
+}
+
